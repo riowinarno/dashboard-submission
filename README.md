@@ -1,4 +1,4 @@
-# Bike Sharing Data Analysis
+# Bike Sharing Data Analysis 🚲
 
 ## Setup environment
 ```
@@ -15,5 +15,5 @@ streamlit run dashboard.py
 ## Dashboard Link
 https://dashboard-submission-riowinarno.streamlit.app/
 
-Dashboard Preview
+## Dashboard Preview
 ![image](https://github.com/riowinarno/dashboard-submission/assets/62831857/42ca3470-b055-4325-b51b-3c0b3226b2a5)
